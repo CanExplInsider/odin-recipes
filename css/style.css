@@ -16,3 +16,9 @@
     font-size: 20px;
     font-family: 'Helvetica';
 }
+
+.secondary-title {
+    font-size: 30px;
+    color: darkgreen;
+    font-weight: bold;
+}
